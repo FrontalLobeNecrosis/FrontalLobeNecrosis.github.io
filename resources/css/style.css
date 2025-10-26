@@ -4,6 +4,8 @@
 
 .opening h1 {
     background-image: url(../images/errors.jpg);
+    text-align: center;
+    font-size: 50px;
 }
 
 .music {
