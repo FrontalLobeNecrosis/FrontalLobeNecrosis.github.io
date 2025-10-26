@@ -2,6 +2,10 @@
     font-family: Helvetica, sans-serif;
 }
 
+.opening h1 {
+    background-image: url(../images/errors.jpg);
+}
+
 .music {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
