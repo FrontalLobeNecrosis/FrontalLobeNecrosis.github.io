@@ -6,17 +6,25 @@
     background-image: url(../images/errors.jpg);
     text-align: center;
     font-size: 50px;
-    height: 100px;
-    color: rgb(22, 6, 111);
+    padding-top: 30px;
+    height: 90px;
+    color: rgb(61, 35, 212);
     text-shadow: #000 0px 3px 5px;
+    margin: -10px;
 }
 
-.music {
+.opening h2{
+    text-align: center;
+}
+
+.tunes {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .cat {
     color: rgb(255, 171, 15);
+    margin-top: 20px;
+    margin-bottom: -10px;
 }
 
 body {
@@ -30,10 +38,54 @@ h1 {
     color: rgb(0, 0, 0);
 }
 
+h3 {
+    font-size: 30px;
+}
+
+.tunes h3 {
+    text-align: center;
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+.tunes a {
+    font-size: 30px;
+}
+
+.food {
+    background-image: url(../images/food.png);
+    text-align: center;
+    margin: 20px -10px;
+    padding: 20px 0px;
+    text-shadow: #000 0px 3px 5px;
+}
+
+.music {
+    text-align: center;
+    margin: 20px -10px;
+    padding: 20px 0px;
+    text-shadow: #000 0px 3px 5px;
+}
+
+.games {
+    text-align: center;
+    margin: 20px -10px;
+    padding: 20px 0px;
+    text-shadow: #000 0px 3px 5px;
+}
+
+.list {
+    text-align: center;
+    margin: 20px -10px;
+    padding: 20px 0px;
+    text-shadow: #000 0px 3px 5px;
+}
+
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 a {
-    color: rgb(221, 113, 187);
+    color: rgb(233, 139, 203);
+    font-size: 20px;
 }
